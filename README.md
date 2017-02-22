@@ -1,7 +1,4 @@
-Shipwire coding challenge
-
-Problem Description:
-
+Please follow these instructions for the Coding Project:
 Initial requirements and notes
 Please make sure that your code will run under either Python 2.6.6 or Python 3.5.1.
 Please post your code and output to a repository on github or bitbucket and share the repository.
